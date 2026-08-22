@@ -69,28 +69,41 @@ Atualmente, dedico minha jornada à integração estratégica de novas tecnologi
 
 ---
 
-## 📜 Certificações
+### 📜 Certificações & Formações
 
-- Certificação White Belt em Lean Seis Sigma
-- Fundamentos de IA Generativa
-- Cursor com Python: Desenvolvimento Inteligente com IA
-- Power BI Intermediário: Análise e Modelagem de Dados
-- Liderança de Alta Performance: Lições da Fórmula 1®
+* **Lean Seis Sigma:** Certificação White Belt
+* **Inteligência Artificial & Dados:**
+  * Trilha IBM Bob: IA de Nível Empresarial para Desenvolvedores (DIO)
+  * IA no Negócio: Prompting Responsável (Santander Open Academy)
+  * Produtividade com IA (Canva Design School)
+  * Fundamentos de IA Generativa
+  * Cursor com Python: Desenvolvimento Inteligente com IA
+* **Business Intelligence & Análise:**
+  * Microsoft Power BI Expert
+  * Power BI Intermediário: Análise e Modelagem de Dados (Santander Open Academy)
+  * Python for Data Science
+* **Gestão, Liderança & Qualidade:**
+  * Liderança de Alta Performance: Lições da Fórmula 1®
+  * Pensamento Crítico & Resolução de Problemas (Santander Open Academy)
+  * Auditor Líder ISO 9001/14001
+  * BPF / BPL Avançado
 
 ---
 
-## ✍️ Publicações & Artigos
+### ✍️ Publicações & Artigos (Medium)
 
-- *O papel da qualidade na indústria moderna deixou de ser uma rotina estática de bancada para se tornar um pilar de governança
-- *Governança 4.0 e Qualidade Preditiva: O Novo Dashboard Executivo
-- *Desenvolvimento de Protótipos e Scripts em Python para Automação (#2)
-- *Miniguia de Estudos e Governança com NotebookLM
+* **[A Indústria 4.0 não precisa de mais dados. Precisa de decisões melhores.](https://medium.com/@ornelas.tozato/a-indústria-4-0-não-precisa-de-mais-dados-precisa-de-decisões-melhores-0da0a76...)**
+* **[Desenvolvendo um Dashboard de Gestão de RH com Power BI e Integração em Nuvem](https://medium.com/@ornelas.tozato)**
+* **[Do Relatório Executivo ao Processamento de Dados: A Evolução Prática no Power BI](https://medium.com/@ornelas.tozato)**
+* **[Do Dados Brutos à Inteligência Estratégica: Construindo um Projeto Avançado em Power BI](https://medium.com/@ornelas.tozato)**
+* **[Acelere sua Aprendizagem com IA: Explore o Poder do NotebookLM](https://medium.com/@ornelas.tozato)**
 
 ---
 
-## 🌐 Portfólio & Contato
+### 🌐 Portfólio & Contato
 
-- **GitHub:** [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
-- **Medium:** [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
-- **LinkedIn:** [linkedin.com/in/rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
-- **E-mail:** [ornelas.tozato@gmail.com](mailto:ornelas.tozato@gmail.com)
+* **GitHub:** [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
+* **Medium:** [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
+* **LinkedIn:** [linkedin.com/in/rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
+* **Portfólio DIO:** [web.dio.me/users/ornelas_tozato](https://web.dio.me/users/ornelas_tozato)
+* **E-mail:** ornelas.tozato@gmail.com
