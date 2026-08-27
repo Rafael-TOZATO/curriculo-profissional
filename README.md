@@ -97,6 +97,7 @@ Atualmente, dedico minha jornada à integração estratégica de novas tecnologi
 * **[Do Relatório Executivo ao Processamento de Dados: A Evolução Prática no Power BI](https://medium.com/@ornelas.tozato)**
 * **[Do Dados Brutos à Inteligência Estratégica: Construindo um Projeto Avançado em Power BI](https://medium.com/@ornelas.tozato)**
 * **[Acelere sua Aprendizagem com IA: Explore o Poder do NotebookLM](https://medium.com/@ornelas.tozato)**
+* **[O Mito das 760 Horas: Por Que a Sua Especialização Técnica Está Sendo Ignorada Pela Indústria](https://medium.com/@ornelas.tozato/o-mito-das-760-horas-por-que-a-sua-especializa%C3%A7%C3%A3o-t%C3%A9cnica-est%C3%A1-sendo-ignorada-pela-ind%C3%BAstria-a40e5d5368b8)**
 
 ---
 
