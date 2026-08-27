@@ -92,7 +92,7 @@ Atualmente, dedico minha jornada à integração estratégica de novas tecnologi
 
 ### ✍️ Publicações & Artigos (Medium)
 
-* **[A Indústria 4.0 não precisa de mais dados. Precisa de decisões melhores.](https://medium.com/@ornelas.tozato/a-indústria-4-0-não-precisa-de-mais-dados-precisa-de-decisões-melhores-0da0a76...)**
+* **[A Indústria 4.0 Não Precisa de Mais Dados. Precisa de Decisões Melhores.](https://medium.com/@ornelas.tozato/a-indústria-4-0-não-precisa-de-mais-dados-precisa-de-decisões-melhores-0da0a76...)**
 * **[Desenvolvendo um Dashboard de Gestão de RH com Power BI e Integração em Nuvem](https://medium.com/@ornelas.tozato)**
 * **[Do Relatório Executivo ao Processamento de Dados: A Evolução Prática no Power BI](https://medium.com/@ornelas.tozato)**
 * **[Do Dados Brutos à Inteligência Estratégica: Construindo um Projeto Avançado em Power BI](https://medium.com/@ornelas.tozato)**
