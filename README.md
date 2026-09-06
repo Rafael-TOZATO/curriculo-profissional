@@ -1,5 +1,7 @@
 # Rafael Ornelas Tozato
 
+![Branch Protection](https://img.shields.io/badge/branch%20protection-active-success)
+
 Engenheiro Químico | Garantia da Qualidade | Governança 4.0 | IA Aplicada à Indústria
 
 [Contato](mailto:ornelas.tozato@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rafaeltozato81) | [GitHub](https://github.com/Rafael-TOZATO) | [Medium](https://medium.com/@ornelas.tozato) | [App PWA](https://tozato-dev-hub.vercel.app)
