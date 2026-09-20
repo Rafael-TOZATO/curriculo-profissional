@@ -86,25 +86,19 @@ Acesse o aplicativo interativo para instalação direta e acompanhe os repositó
 
 ---
 
-## 📜 Certificações & Formações
+### Certificações & Formações
 
-* **Lean Seis Sigma:** Certificação White Belt[cite: 3]
 * **Inteligência Artificial & Dados:**
-  * Trilha IBM Bob: IA de Nível Empresarial para Desenvolvedores (DIO)[cite: 3]
-  * MCP: Dando Superpoderes ao Seu Agente de IA[cite: 3]
-  * Fundamentos de IA Generativa 2026 (Universia)[cite: 3]
-  * IA no Negócio: Prompting Responsável (Santander Open Academy)
-  * Cursor com Python: Desenvolvimento Inteligente com IA
-* **Business Intelligence & Análise:**
-  * Microsoft Power BI Expert
-  * Power BI Intermediário: Análise e Modelagem de Dados (Santander Open Academy)
-  * Python for Data Science
-* **Gestão, Liderança & Qualidade:**
-  * Liderança de Alta Performance: Lições da Fórmula 1®[cite: 3]
-  * Pensamento Crítico & Resolução de Problemas (Santander Open Academy)
-  * Auditor Líder ISO 9001/14001
-  * BPF / BPL Avançado
+  * Certificado Oficial - Microsoft: Foundry Agentic Engineer[cite: 7]
+  * Bootcamp IBM Bob: IA de Nível Empresarial (DIO/IBM)[cite: 7]
+  * Confluent Cloud: Desafio Final com Pipeline Real-Time End-to-End[cite: 7]
+  * Certificado Universia - Fundamentos de IA Generativa 2026[cite: 7]
+  * Certificado RAG com ChromaDB, Llamalndex e Python[cite: 7]
 
+* **Qualidade, Liderança & Qualidade:**
+  * Seis Sigma: Certificação White Belt
+  * Auditor Líder ISO 9001/14001
+  * QMS / BPL Avançado
 ---
 
 ## ✍️ Publicações & Artigos (Medium)
