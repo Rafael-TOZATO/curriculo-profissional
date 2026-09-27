@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80" alt="Engenharia Química e Processos Industriais" width="100%">
+  <img src="https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80" alt="Estruturas Moleculares e Engenharia Química" width="100%">
 </p>
 
 <p align="center">
@@ -48,50 +48,50 @@ Acesse o aplicativo interativo para instalação direta e acompanhe os repositó
 
 ### **Center Tintas Arco Íris Ltda - Decor & Art**
 **Analista de Garantia da Qualidade | Gestão de Processos e Conformidade** *(Novembro de 2024 – Fevereiro de 2025)*  
-* Santana do Parnaíba - São Paulo[cite: 3]
-* Manutenção do Sistema de Gestão conforme ISO 9001[cite: 3].
-* Padronização de processos produtivos e controle documental[cite: 3].
-* Tratativa de não conformidades e implementação de CAPA[cite: 3].
-* Suporte a auditorias internas e externas[cite: 3].
-* Monitoramento de indicadores de qualidade[cite: 3].
+* Santana do Parnaíba - São Paulo
+* Manutenção do Sistema de Gestão conforme ISO 9001.
+* Padronização de processos produtivos e controle documental.
+* Tratativa de não conformidades e implementação de CAPA.
+* Suporte a auditorias internas e externas.
+* Monitoramento de indicadores de qualidade.
 
 ### **IQL - PAINTS & COATINGS SOLUTIONS**
 **Técnico de Garantia da Qualidade e Processos** *(Abril de 2023 – Abril de 2024)*  
-* Diadema, SP[cite: 3]
-* Controle e análise de não conformidades[cite: 3].
-* Padronização operacional e revisão de procedimentos[cite: 3].
-* Apoio na manutenção de certificações ISO[cite: 3].
-* Gestão de registros e rastreabilidade técnica[cite: 3].
-* Suporte à melhoria contínua dos processos produtivos[cite: 3].
+* Diadema, SP
+* Controle e análise de não conformidades.
+* Padronização operacional e revisão de procedimentos.
+* Apoio na manutenção de certificações ISO.
+* Gestão de registros e rastreabilidade técnica.
+* Suporte à melhoria contínua dos processos produtivos.
 
 ### **Tintas Altezza**
 **Técnico Químico de Laboratório | Adequação de Processos e Conformidade** *(Julho de 2022 – Janeiro de 2023)*  
-* Manaus, AM[cite: 3]
-* Reestruturação do laboratório com adequação a normas e padronização de processos[cite: 3].
-* Organização documental e alinhamento a requisitos de qualidade[cite: 3].
-* Implementação de rotinas de controle e melhoria operacional[cite: 3].
+* Manaus, AM
+* Reestruturação do laboratório com adequação a normas e padronização de processos.
+* Organização documental e alinhamento a requisitos de qualidade.
+* Implementação de rotinas de controle e melhoria operacional.
 
 ### **CGE Sociedade Fabricadora de Peças Plásticas Ltda**
 *Controle de Qualidade | Processos Industriais* *(Janeiro de 2016 – Fevereiro de 2017)*  
-* Mauá, SP[cite: 3]
-* Monitoramento de qualidade ao longo da cadeia produtiva[cite: 3].
-* Inspeção de processos e conformidade com especificações técnicas[cite: 3].
-* Apoio na padronização operacional e tratativa de não conformidades[cite: 3].
+* Mauá, SP
+* Monitoramento de qualidade ao longo da cadeia produtiva.
+* Inspeção de processos e conformidade com especificações técnicas.
+* Apoio na padronização operacional e tratativa de não conformidades.
 
 ### **IQL Chemical Solutions**
 **Químico de Desenvolvimento e Controle de Qualidade** *(Outubro de 2008 – Maio de 2015)*  
-* Diadema, SP[cite: 3]
-* Estruturação inicial e desenvolvimento de produtos (tintas e aditivos) para introdução e comercialização no mercado[cite: 3].
-* Interface técnica com SENAI e IPT para validação, testes e conformidade regulatória[cite: 3].
-* Condução de testes laboratoriais e garantia de aderência às especificações técnicas[cite: 3].
-* Suporte técnico a clientes e interface com fornecedores para cotação e homologação de matérias-primas[cite: 3].
+* Diadema, SP
+* Estruturação inicial e desenvolvimento de produtos (tintas e aditivos) para introdução e comercialização no mercado.
+* Interface técnica com SENAI e IPT para validação, testes e conformidade regulatória.
+* Condução de testes laboratoriais e garantia de aderência às especificações técnicas.
+* Suporte técnico a clientes e interface com fornecedores para cotação e homologação de matérias-primas.
 
 ---
 
 ## 🎓 Formação Acadêmica
 
-* **Centro Universitário UniFatecie**[cite: 3]  
-  Bacharelado em Engenharia Química *(Maio de 2024 – Dezembro de 2029)*[cite: 3]
+* **Centro Universitário UniFatecie**  
+  Bacharelado em Engenharia Química *(Maio de 2024 – Dezembro de 2029)*
 
 ---
 
@@ -102,7 +102,7 @@ Acesse o aplicativo interativo para instalação direta e acompanhe os repositó
   * Bootcamp IBM Bob: IA de Nível Empresarial (DIO/IBM)
   * Confluent Cloud: Desafio Final com Pipeline Real-Time End-to-End
   * Certificado Universia - Fundamentos de IA Generativa 2026
-  * Certificado RAG con ChromaDB, Llamalndex e Python
+  * Certificado RAG com ChromaDB, Llamalndex e Python
 
 * **Qualidade & Liderança:**
   * Seis Sigma: Certificação White Belt
@@ -113,8 +113,8 @@ Acesse o aplicativo interativo para instalação direta e acompanhe os repositó
 
 ## ✍️ Publicações & Artigos (Medium)
 
-* O papel da qualidade na indústria moderna deixou de ser uma rotina estática de bancada para se tornar um pilar de governança[cite: 3]
-* Desenvolvimento de Protótipos e Scripts em Python para Automação (#2)[cite: 3]
+* O papel da qualidade na indústria moderna deixou de ser uma rotina estática de bancada para se tornar um pilar de governança
+* Desenvolvimento de Protótipos e Scripts em Python para Automação (#2)
 * A Indústria 4.0 Não Precisa de Mais Dados. Precisa de Decisões Melhores.
 * Desenvolvendo um Dashboard de Gestão de RH com Power BI e Integração em Nuvem
 * Do Relatório Executivo ao Processamento de Dados: A Evolução Prática no Power BI
