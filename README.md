@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=1200&q=80" alt="Engenharia e Qualidade Industrial" width="100%">
+  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="Banner Indústria 4.0 e Tecnologia" width="100%">
 </p>
 
 # Rafael Ornelas Tozato
@@ -72,7 +72,7 @@ Acesse o aplicativo interativo para instalação direta e acompanhe os repositó
 * Implementação de rotinas de controle e melhoria operacional[cite: 3].
 
 ### **CGE Sociedade Fabricadora de Peças Plásticas Ltda**
-**Controle de Qualidade | Processos Industriais** *(Janeiro de 2016 – Fevereiro de 2017)*  
+*Controle de Qualidade | Processos Industriais* *(Janeiro de 2016 – Fevereiro de 2017)*  
 * Mauá, SP[cite: 3]
 * Monitoramento de qualidade ao longo da cadeia produtiva[cite: 3].
 * Inspeção de processos e conformidade com especificações técnicas[cite: 3].
