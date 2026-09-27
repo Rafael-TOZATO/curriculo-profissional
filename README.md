@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80" alt="Energia e Inovação Industrial" width="100%">
+  <img src="https://images.unsplash.com/photo-1563770660941-20978e870e26?auto=format&fit=crop&w=1200&q=80" alt="Engenharia Química e Indústria 4.0" width="100%">
 </p>
 
 # Rafael Ornelas Tozato
