@@ -1,13 +1,13 @@
 <p align="center">
+  <img src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=1200&q=80" alt="Arquitetura de IA e Tecnologia Industrial" width="100%">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Status-Profissional-success?style=for-the-badge&logo=git" alt="Status">
   <img src="https://img.shields.io/badge/Branch%20Protection-Active-success?style=for-the-badge&logo=github" alt="Branch Protection">
   <img src="https://img.shields.io/badge/Qualidade-ISO%209001-blue?style=for-the-badge&logo=checkmarx&logoColor=white" alt="ISO 9001">
   <img src="https://img.shields.io/badge/Governança-Indústria%204.0-orange?style=for-the-badge&logo=databricks&logoColor=white" alt="Indústria 4.0">
   <img src="https://img.shields.io/badge/Python-%20IA-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python & IA">
-</p>
-
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1516937941344-00b4e0337589?auto=format&fit=crop&w=1200&q=80" alt="Processos de Engenharia Química e Indústria" width="100%">
 </p>
 
 # Rafael Ornelas Tozato
