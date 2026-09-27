@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner-perfil.svg" alt="Rafael Ornelas Tozato — AI Engineer, Governança 4.0 e Qualidade" width="100%">
+  <img src="banner-perfil.png" alt="Rafael Ornelas Tozato — AI Engineer, Governança 4.0 e Qualidade" width="100%">
 </p>
 
 <p align="center">
