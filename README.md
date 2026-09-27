@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=1200&q=80" alt="Arquitetura de IA e Tecnologia Industrial" width="100%">
+  <img src="https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80" alt="Engenharia Química e Processos Industriais" width="100%">
 </p>
 
 <p align="center">
@@ -102,7 +102,7 @@ Acesse o aplicativo interativo para instalação direta e acompanhe os repositó
   * Bootcamp IBM Bob: IA de Nível Empresarial (DIO/IBM)
   * Confluent Cloud: Desafio Final com Pipeline Real-Time End-to-End
   * Certificado Universia - Fundamentos de IA Generativa 2026
-  * Certificado RAG com ChromaDB, Llamalndex e Python
+  * Certificado RAG con ChromaDB, Llamalndex e Python
 
 * **Qualidade & Liderança:**
   * Seis Sigma: Certificação White Belt
