@@ -1,10 +1,19 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Profissional-success?style=for-the-badge&logo=git" alt="Status">
+  <img src="https://img.shields.io/badge/Branch%20Protection-Active-success?style=for-the-badge&logo=github" alt="Branch Protection">
+  <img src="https://img.shields.io/badge/Qualidade-ISO%209001-blue?style=for-the-badge&logo=checkmarx&logoColor=white" alt="ISO 9001">
+  <img src="https://img.shields.io/badge/Governança-Indústria%204.0-orange?style=for-the-badge&logo=databricks&logoColor=white" alt="Industria 4.0">
+  <img src="https://img.shields.io/badge/Python-%20IA-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python & IA">
+</p>
+
+<p align="center">
+  <img src="banner.jpg" alt="TozatoCode-AI Banner" width="100%">
+</p>
+
 # Rafael Ornelas Tozato
 
-![Branch Protection](https://img.shields.io/badge/branch%20protection-active-success)
-
-Engenheiro Químico | Garantia da Qualidade | Governança 4.0 | IA Aplicada à Indústria
-
-[Contato](mailto:ornelas.tozato@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rafaeltozato81) | [GitHub](https://github.com/Rafael-TOZATO) | [Medium](https://medium.com/@ornelas.tozato) | [App PWA](https://tozato-dev-hub.vercel.app)
+> **Engenheiro Químico | Garantia da Qualidade | Governança 4.0 | IA Aplicada à Indústria**  
+> [Contato](mailto:ornelas.tozato@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rafaeltozato81) | [GitHub](https://github.com/Rafael-TOZATO) | [Medium](https://medium.com/@ornelas.tozato) | [App PWA](https://tozato-dev-hub.vercel.app)
 
 ---
 
@@ -89,16 +98,17 @@ Acesse o aplicativo interativo para instalação direta e acompanhe os repositó
 ### Certificações & Formações
 
 * **Inteligência Artificial & Dados:**
-  * Certificado Oficial - Microsoft: Foundry Agentic Engineer[cite: 7]
-  * Bootcamp IBM Bob: IA de Nível Empresarial (DIO/IBM)[cite: 7]
-  * Confluent Cloud: Desafio Final com Pipeline Real-Time End-to-End[cite: 7]
-  * Certificado Universia - Fundamentos de IA Generativa 2026[cite: 7]
-  * Certificado RAG com ChromaDB, Llamalndex e Python[cite: 7]
+  * Certificado Oficial - Microsoft: Foundry Agentic Engineer
+  * Bootcamp IBM Bob: IA de Nível Empresarial (DIO/IBM)
+  * Confluent Cloud: Desafio Final com Pipeline Real-Time End-to-End
+  * Certificado Universia - Fundamentos de IA Generativa 2026
+  * Certificado RAG com ChromaDB, Llamalndex e Python
 
-* **Qualidade, Liderança & Qualidade:**
+* **Qualidade & Liderança:**
   * Seis Sigma: Certificação White Belt
   * Auditor Líder ISO 9001/14001
   * QMS / BPL Avançado
+
 ---
 
 ## ✍️ Publicações & Artigos (Medium)
