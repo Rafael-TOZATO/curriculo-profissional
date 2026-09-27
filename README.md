@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="Banner Indústria 4.0 e Tecnologia" width="100%">
+  <img src="https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80" alt="Processos Químicos e Indústria 4.0" width="100%">
 </p>
 
 # Rafael Ornelas Tozato
