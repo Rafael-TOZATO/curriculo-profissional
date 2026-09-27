@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1563770660941-20978e870e26?auto=format&fit=crop&w=1200&q=80" alt="Engenharia Química e Indústria 4.0" width="100%">
+  <img src="https://images.unsplash.com/photo-1516937941344-00b4e0337589?auto=format&fit=crop&w=1200&q=80" alt="Processos de Engenharia Química e Indústria" width="100%">
 </p>
 
 # Rafael Ornelas Tozato
