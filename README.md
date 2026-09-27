@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80" alt="Processos Químicos e Indústria 4.0" width="100%">
+  <img src="https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80" alt="Engenharia Química e Laboratório de Qualidade" width="100%">
 </p>
 
 # Rafael Ornelas Tozato
@@ -120,4 +120,4 @@ Acesse o aplicativo interativo para instalação direta e acompanhe os repositó
 * Do Relatório Executivo ao Processamento de Dados: A Evolução Prática no Power BI
 * Do Dados Brutos à Inteligência Estratégica: Construindo um Projeto Avançado em Power BI
 * Acelere sua Aprendizagem com IA: Explore o Poder do NotebookLM
-* O Mito das 760 Horas: Por Que a Sua Especialização Técnica Está Sendo Ignorada Pela Indústria
+* O Mito das 760 Horas: Por Que a Sua Especialização Técnica Está Sendo Ignorada Pela Infância/Indústria
