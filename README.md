@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1200&q=80" alt="IA Aplicada e Engenharia de Processos" width="100%">
+  <img src="assets/banner-perfil.svg" alt="Rafael Ornelas Tozato — AI Engineer, Governança 4.0 e Qualidade" width="100%">
 </p>
 
 <p align="center">
