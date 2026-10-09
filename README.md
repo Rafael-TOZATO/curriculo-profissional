@@ -19,26 +19,26 @@
 
 ## 📌 Perfil e Objetivo Profissional
 
-Especialista em Garantia da Qualidade, Governança Industrial e Indústria 4.0[cite: 2]. Experiência sólida em processos químicos, ISO 9001, melhoria contínua e Lean Six Sigma, combinada com transição digital para Data Analytics, Python e Inteligência Artificial Aplicada[cite: 2].
+Especialista em Garantia da Qualidade, Governança Industrial e Indústria 4. Experiência sólida em processos químicos, ISO 9001, melhoria contínua e Lean Six Sigma, combinada com transição digital para Data Analytics, Python e Inteligência Artificial Aplicada.
 
-* **Cargo Alvo:** AI Engineer / Especialista em Governança 4.0 e Qualidade[cite: 2]
-* **Idiomas:** Inglês e Espanhol (Intermediário)[cite: 2]
+* **Cargo Alvo:** AI Engineer / Especialista em Governança 4.0 e Qualidade
+* **Idiomas:** Inglês e Espanhol (Intermediário)
 
 ---
 
 ## 🛠️ Principais Competências
 
-Python, Cursor IDE, Power BI, DAX, SQL, Azure, Machine Learning, IA Generativa, LlamaIndex, ChromaDB, RAG, Model Context Protocol (MCP), Git, Scrum, ISO 9001, Lean Six Sigma[cite: 2].
+Python, Cursor IDE, Power BI, DAX, SQL, Azure, Machine Learning, IA Generativa, LlamaIndex, ChromaDB, RAG, Model Context Protocol (MCP), Git, Scrum, ISO 9001, Lean Six Sigma.
 
 ---
 
 ## 📱 Portfólio Técnico e Aplicativo (PWA)
 
 Acesse o aplicativo interativo e os repositórios oficiais:
-* **App PWA:** [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)[cite: 2]
-* **Repositórios:** [GitHub](https://github.com/Rafael-TOZATO)[cite: 2]
-* **Artigos Técnicos:** [Medium](https://medium.com/@ornelas.tozato)[cite: 2]
-* **DIO Profile:** [DIO Profile](https://web.dio.me/users/ornelas_tozato)[cite: 2]
+* **App PWA:** [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
+* **Repositórios:** [GitHub](https://github.com/Rafael-TOZATO)
+* **Artigos Técnicos:** [Medium](https://medium.com/@ornelas.tozato)
+* **DIO Profile:** [DIO Profile](https://web.dio.me/users/ornelas_tozato)
 
 ---
 
@@ -73,25 +73,25 @@ Acesse o aplicativo interativo e os repositórios oficiais:
 
 ## 🎓 Formação Acadêmica
 
-* **Centro Universitário UniFatecie**[cite: 2]  
-  Bacharelado em Engenharia Química *(Maio 2024 - Dezembro 2029)*[cite: 2]
+* **Centro Universitário UniFatecie**  
+  Bacharelado em Engenharia Química *(Maio 2024 - Dezembro 2029)*
 
 ---
 
-### 🏆 Consolidação de Certificações (18 Totais / 760H)[cite: 2]
+### 🏆 Consolidação de Certificações (18 Totais / 760H)
 
-* **Microsoft:** Foundry Agentic Engineer[cite: 2]
-* **IBM/DIO:** Bootcamp IBM Bob: IA de Nível Empresarial[cite: 2]
-* **Confluent Cloud:** Desafio Final com Pipeline Real-Time End-to-End[cite: 2]
-* **Universia / DIO:** Fundamentos de IA Generativa 2026[cite: 2]
-* **Santander Open Academy:** RAG com ChromaDB, LlamaIndex e Python[cite: 2]
-* **DIO:** MCP (Model Context Protocol): Dando Superpoderes ao Seu Agente de IA[cite: 2]
-* **Escola EDTI:** Green Belt / White Belt em Lean Six Sigma[cite: 2]
-* **DIO:** Pipeline Real-Time End-to-End com Confluent Cloud[cite: 2]
-* **Santander / DIO:** Aceleração Santander - Primeiros Passos com IA[cite: 2]
-* **DIO:** Formação Power BI, MySQL, Microsoft Azure e Dashboards Corporativos[cite: 2]
-* **Católica Lisbon School of Business and Economics:** A Sustentabilidade nas Empresas - Do Diagnóstico ao Reporting[cite: 2]
-* **Santander Open Academy:** Cursor com Python: Desenvolvimento Inteligente com IA[cite: 2]
+* **Microsoft:** Foundry Agentic Engineer
+* **IBM/DIO:** Bootcamp IBM Bob: IA de Nível Empresarial
+* **Confluent Cloud:** Desafio Final com Pipeline Real-Time End-to-End
+* **Universia / DIO:** Fundamentos de IA Generativa 2026
+* **Santander Open Academy:** RAG com ChromaDB, LlamaIndex e Python
+* **DIO:** MCP (Model Context Protocol): Dando Superpoderes ao Seu Agente de IA
+* **Escola EDTI:** Green Belt / White Belt em Lean Six Sigma
+* **DIO:** Pipeline Real-Time End-to-End com Confluent Cloud
+* **Santander / DIO:** Aceleração Santander - Primeiros Passos com 
+* **DIO:** Formação Power BI, MySQL, Microsoft Azure e Dashboards Corporativos
+* **Católica Lisbon School of Business and Economics:** A Sustentabilidade nas Empresas - Do Diagnóstico ao Reporting[c
+* **Santander Open Academy:** Cursor com Python: Desenvolvimento Inteligente com IA
 
 ---
 
