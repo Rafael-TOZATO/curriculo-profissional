@@ -38,7 +38,7 @@ Acesse o aplicativo interativo e os repositórios oficiais:
 * **App PWA:** [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
 * **Repositórios:** [GitHub](https://github.com/Rafael-TOZATO)
 * **Artigos Técnicos:** [Medium](https://medium.com/@ornelas.tozato)
-* **DIO Profile:** [DIO Profile](https://web.dio.me/users/ornelas_tozato)
+* **Lovable:** [Lovable](https://aurora-bi-dio.lovable.app)
 
 ---
 
