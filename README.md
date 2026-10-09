@@ -35,7 +35,7 @@ Python, Cursor IDE, Power BI, DAX, SQL, Azure, Machine Learning, IA Generativa, 
 ## 📱 Portfólio Técnico e Aplicativo (PWA)
 
 Acesse o aplicativo interativo e os repositórios oficiais:
-* **App PWA:** [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
+* **Aplicativo PWA:** [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
 * **Repositórios:** [GitHub](https://github.com/Rafael-TOZATO)
 * **Artigos Técnicos:** [Medium](https://medium.com/@ornelas.tozato)
 * **Aplicativo Web/Dashboard BI:** [Lovable](https://aurora-bi-dio.lovable.app)
