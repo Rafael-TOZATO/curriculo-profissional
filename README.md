@@ -90,7 +90,7 @@ Acesse o aplicativo interativo e os repositórios oficiais:
 
 ---
 
-### 🏆 Consolidação de Certificações Oficiais e Formações
+## 🏆 Consolidação de Certificações Oficiais e Formações
 
 * **Microsoft Learn:** [Transcript Dinâmico (Dynamics 365, ERP, Supply Chain & Cloud)](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209/transcript/dzo2wizrzkx2853)
 * **Microsoft:** Foundry Agentic Engineer
@@ -105,6 +105,8 @@ Acesse o aplicativo interativo e os repositórios oficiais:
 * **DIO:** Formação Power BI, MySQL, Microsoft Azure e Dashboards Corporativos
 * **Católica Lisbon School of Business and Economics:** A Sustentabilidade nas Empresas - Do Diagnóstico ao Reporting
 * **Santander Open Academy:** Cursor com Python: Desenvolvimento Inteligente com IA
+
+---
 
 ## ✍️ Publicações & Artigos (Medium)
 
