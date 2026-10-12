@@ -90,22 +90,21 @@ Acesse o aplicativo interativo e os repositórios oficiais:
 
 ---
 
-### 🏆 Consolidação de Certificações (18 Totais / 760H)
+### 🏆 Consolidação de Certificações Oficiais e Formações
 
+* **Microsoft Learn:** [Transcript Dinâmico (Dynamics 365, ERP, Supply Chain & Cloud)](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209/transcript/dzo2wizrzkx2853)
 * **Microsoft:** Foundry Agentic Engineer
-* **IBM/DIO:** Bootcamp IBM Bob: IA de Nível Empresarial
+* **IBM / DIO:** Bootcamp IBM Bob: IA de Nível Empresarial
 * **Confluent Cloud:** Desafio Final com Pipeline Real-Time End-to-End
 * **Universia / DIO:** Fundamentos de IA Generativa 2026
 * **Santander Open Academy:** RAG com ChromaDB, LlamaIndex e Python
 * **DIO:** MCP (Model Context Protocol): Dando Superpoderes ao Seu Agente de IA
 * **Escola EDTI:** Green Belt / White Belt em Lean Six Sigma
 * **DIO:** Pipeline Real-Time End-to-End com Confluent Cloud
-* **Santander / DIO:** Aceleração Santander - Primeiros Passos com 
+* **Santander / DIO:** Aceleração Santander - Primeiros Passos com Python
 * **DIO:** Formação Power BI, MySQL, Microsoft Azure e Dashboards Corporativos
-* **Católica Lisbon School of Business and Economics:** A Sustentabilidade nas Empresas - Do Diagnóstico ao Reporting[c
+* **Católica Lisbon School of Business and Economics:** A Sustentabilidade nas Empresas - Do Diagnóstico ao Reporting
 * **Santander Open Academy:** Cursor com Python: Desenvolvimento Inteligente com IA
-
----
 
 ## ✍️ Publicações & Artigos (Medium)
 
