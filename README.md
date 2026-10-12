@@ -23,6 +23,8 @@
 - ✍️ **Medium:** [@ornelas.tozato](https://medium.com/@ornelas.tozato)
 - 🌐 **Portfólio PWA:** [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
 - 🚀 **Aurora BI (Lovable):** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
+- 📜 **Microsoft Learn:** [Transcript](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209/transcript/dzo2wizrzkx2853)
+ 
 
 ---
 
@@ -48,6 +50,7 @@ Acesse o aplicativo interativo e os repositórios oficiais:
 * **Repositórios:** [GitHub](https://github.com/Rafael-TOZATO)
 * **Artigos Técnicos:** [Medium](https://medium.com/@ornelas.tozato)
 * **Aplicativo Web/Dashboard BI:** [Lovable](https://aurora-bi-dio.lovable.app)
+* **Microsoft Learn Transcript:** [Transcript](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209/transcript/dzo2wizrzkx2853)
 
 ---
 
