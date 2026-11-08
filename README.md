@@ -16,30 +16,6 @@
 
 ---
 
-💻 **Projetos e Portfólios**
-- **App Ecosystem:** [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
-- **H-Folio:** [h-folio-l0.vercel.app](https://h-folio-l0.vercel.app)
-
-🐙 **Código e Repositórios**
-- **GitHub:** [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
-
-✍️ **Artigos e Publicações**
-- **Medium:** [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
-
----
-
-📬 **Contatos**
-
-- 📌 **E-mail:** ornelas.tozato@gmail.com
-- 💼 **LinkedIn:** [rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
-- 🐙 **GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
-- ✍️ **Medium:** [@ornelas.tozato](https://medium.com/@ornelas.tozato)
-- 💻 **Dev Hub:** [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
-- 🌐 **H-Folio:** [h-folio-l0.vercel.app](https://h-folio-l0.vercel.app)
-- 🪟 **Microsoft Learn:** [rafaelornelastozato-2209](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209)
- 
----
-
 ## 📌 Perfil e Objetivo Profissional
 
 Especialista em Garantia da Qualidade, Governança Industrial e Indústria 4. Experiência sólida em processos químicos, ISO 9001, melhoria contínua e Lean Six Sigma, combinada com transição digital para Data Analytics, Python e Inteligência Artificial Aplicada.
@@ -52,17 +28,6 @@ Especialista em Garantia da Qualidade, Governança Industrial e Indústria 4. Ex
 ## 🛠️ Principais Competências
 
 Python, Cursor IDE, Power BI, DAX, SQL, Azure, Machine Learning, IA Generativa, LlamaIndex, ChromaDB, RAG, Model Context Protocol (MCP), Git, Scrum, ISO 9001, Lean Six Sigma.
-
----
-
-## 📱 Portfólio Técnico e Aplicativo (PWA)
-
-Acesse o aplicativo interativo e os repositórios oficiais:
-* **Aplicativo PWA:** [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
-* **Repositórios:** [GitHub](https://github.com/Rafael-TOZATO)
-* **Artigos Técnicos:** [Medium](https://medium.com/@ornelas.tozato)
-* **Aplicativo Web/Dashboard BI:** [Lovable](https://aurora-bi-dio.lovable.app)
-* **Microsoft Learn Transcript:** [Transcript](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209/transcript/dzo2wizrzkx2853)
 
 ---
 
@@ -130,3 +95,27 @@ Acesse o aplicativo interativo e os repositórios oficiais:
 * Do Dados Brutos à Inteligência Estratégica: Construindo um Projeto Avançado em Power BI.
 * Acelere sua Aprendizagem com IA: Explore o Poder do NotebookLM.
 * O Mito das 760 Horas: Por Que a Sua Especialização Técnica Está Sendo Ignorada Pela Indústria.
+
+---  
+
+💻 **Projetos e Portfólios**
+* **App Ecosystem:** [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
+* **H-Folio:** [h-folio-l0.vercel.app](https://h-folio-l0.vercel.app)
+
+🐙 **Código e Repositórios**
+* **GitHub:** [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
+
+✍️ **Artigos e Publicações**
+* **Medium:** [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
+
+---
+
+📬 **Contatos**
+
+* 📌 **E-mail:** ornelas.tozato@gmail.com
+* 💼 **LinkedIn:** [rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
+* 🐙 **GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
+* ✍️ **Medium:** [@ornelas.tozato](https://medium.com/@ornelas.tozato)
+* 💻 **Dev Hub:** [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
+* 🌐 **H-Folio:** [h-folio-l0.vercel.app](https://h-folio-l0.vercel.app)
+* 🪟 **Microsoft Learn:** [rafaelornelastozato-2209](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209)
