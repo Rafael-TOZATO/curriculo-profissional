@@ -111,7 +111,7 @@ Python, Cursor IDE, Power BI, DAX, SQL, Azure, Machine Learning, IA Generativa, 
 
 ---
 
-# 📬 Contatos
+📬 Contatos
 
 * 📌 **E-mail:** ornelas.tozato@gmail.com
 * 💼 **LinkedIn:** [rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
