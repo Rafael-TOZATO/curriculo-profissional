@@ -98,25 +98,21 @@ Python, Cursor IDE, Power BI, DAX, SQL, Azure, Machine Learning, IA Generativa, 
 
 ---  
 
-## 💻 Projetos e Portfólios
+💻 **Projetos e Portfólios**
+- **App Ecosystem:** [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
+- **H-Folio:** [h-folio-l0.vercel.app](https://h-folio-l0.vercel.app)
 
-* **App Ecosystem:** [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
-* **H-Folio:** [h-folio-l0.vercel.app](https://h-folio-l0.vercel.app)
+🐙 **Código e Repositórios**
+- **GitHub:** [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
 
-## 🐙 Código e Repositórios
-* **GitHub:** [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
+✍️ **Artigos e Publicações**
+- **Medium:** [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
 
-## ✍️ Artigos e Publicações
-* **Medium:** [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
-
----
-
-## 📬 Contatos
-
-* 📌 **E-mail:** ornelas.tozato@gmail.com
-* 💼 **LinkedIn:** [rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
-* 🐙 **GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
-* ✍️ **Medium:** [@ornelas.tozato](https://medium.com/@ornelas.tozato)
-* 💻 **Dev Hub:** [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
-* 🌐 **H-Folio:** [h-folio-l0.vercel.app](https://h-folio-l0.vercel.app)
-* 🪟 **Microsoft Learn:** [rafaelornelastozato-2209](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209)
+📬 **Contatos**
+- 📌 **E-mail:** ornelas.tozato@gmail.com
+- 💼 **LinkedIn:** [rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
+- 🐙 **GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
+- ✍️ **Medium:** [@ornelas.tozato](https://medium.com/@ornelas.tozato)
+- 💻 **Dev Hub:** [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
+- 🌐 **H-Folio:** [h-folio-l0.vercel.app](https://h-folio-l0.vercel.app)
+- 🪟 **Microsoft Learn:** [rafaelornelastozato-2209](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209)
