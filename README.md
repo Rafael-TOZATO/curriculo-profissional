@@ -87,14 +87,16 @@ Python, Cursor IDE, Power BI, DAX, SQL, Azure, Machine Learning, IA Generativa, 
 
 ## ✍️ Publicações & Artigos (Medium)
 
-* O papel da qualidade na indústria moderna: de rotina estática a pilar de governança.
-* Desenvolvimento de Protótipos e Scripts em Python para Automação (#2).
-* A Indústria 4.0 Não Precisa de Mais Dados. Precisa de Decisões Melhores.
-* Desenvolvendo um Dashboard de Gestão de RH com Power BI e Integração em Nuvem.
-* Do Relatório Executivo ao Processamento de Dados: A Evolução Prática no Power BI.
-* Do Dados Brutos à Inteligência Estratégica: Construindo um Projeto Avançado em Power BI.
-* Acelere sua Aprendizagem com IA: Explore o Poder do NotebookLM.
-* O Mito das 760 Horas: Por Que a Sua Especialização Técnica Está Sendo Ignorada Pela Indústria.
+* **Desliguei a internet. Meu agente de IA continuou programando.**
+* **SoundGraph: recomendação de músicas explicável com grafos no Neo4j**
+* **Arquitetura de agentes de IA e Protocolos de Contexto (MCP)**
+* **Da Qualidade Industrial à Inteligência Artificial Aplicada**
+* **Da Bancada à Engenharia 4.0: Estratégias de arquitetura, PWA, organização de código e governança de ativos digitais**
+* **Da Engenharia à Inteligência Artificial: Concluindo a Trilha IBM na DIO e Consolidando a Nova Era Tecnológica**
+* **FinanCIA: Como criei um App de Organização de Finanças Pessoais usando Vibe Coding e IA**
+* **Aurora BI: Construindo um Painel Executivo de Inteligência Financeira**
+* **Modelagem Dimensional com Power BI: Do Zero ao Star Schema (Projeto Financial Sample)**
+* **Da Engenharia à Governança 4.0: Consolidação quantitativa das certificações oficiais e carga horária técnica**
 
 ---  
 
