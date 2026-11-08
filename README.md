@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="banner-perfil.png" alt="Banner Rafael Ornelas Tozato" width="100%">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/STATUS-EM_GRADUAÇÃO-brightgreen?style=flat-square" alt="Status">
   <img src="https://img.shields.io/badge/QUALIDADE-ISO_9001-blue?style=flat-square" alt="ISO 9001">
   <img src="https://img.shields.io/badge/GOVERNANÇA-INDÚSTRIA_4.0-orange?style=flat-square" alt="Indústria 4.0">
