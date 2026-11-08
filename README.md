@@ -101,10 +101,8 @@ Python, Cursor IDE, Power BI, DAX, SQL, Azure, Machine Learning, IA Generativa, 
 💻 **Projetos e Portfólios**
 * **App Ecosystem:** [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
 * **H-Folio:** [h-folio-l0.vercel.app](https://h-folio-l0.vercel.app)
-
 🐙 **Código e Repositórios**
 * **GitHub:** [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
-
 ✍️ **Artigos e Publicações**
 * **Medium:** [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
 
