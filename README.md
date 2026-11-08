@@ -12,22 +12,25 @@
 
 # Rafael Ornelas Tozato
 
-> **AI Engineer | Especialista em Governança 4.0 e Qualidade | Engenheiro Químico**  
+> **AI Engineer | Especialista em Governança 4.0 e Qualidade | Engenheiro Químico**
 
 ---
 
 ## 📌 Perfil e Objetivo Profissional
 
-Especialista em Garantia da Qualidade, Governança Industrial e Indústria 4. Experiência sólida em processos químicos, ISO 9001, melhoria contínua e Lean Six Sigma, combinada com transição digital para Data Analytics, Python e Inteligência Artificial Aplicada.
+Especialista em Garantia da Qualidade, Governança Industrial e Indústria 4.0. Experiência sólida em processos químicos, ISO 9001, melhoria contínua e Lean Six Sigma, combinada com transição digital para Data Analytics, engenharia de software Full-Stack e Inteligência Artificial Aplicada (automação local de agentes e LLMs offline).
 
-* **Cargo Alvo:** AI Engineer / Especialista em Governança 4.0 e Qualidade
+* **Cargo Alvo:** AI Engineer / Especialista em Governança 4.0 e Qualidade / Analista de Inteligência de Negócio
 * **Idiomas:** Inglês e Espanhol (Intermediário)
 
 ---
 
 ## 🛠️ Principais Competências
 
-Python, Cursor IDE, Power BI, DAX, SQL, Azure, Machine Learning, IA Generativa, LlamaIndex, ChromaDB, RAG, Model Context Protocol (MCP), Git, Scrum, ISO 9001, Lean Six Sigma.
+**Linguagens & Frameworks:** Python, JavaScript (Node.js), DAX, SQL, HTML5/CSS3.  
+**Inteligência Artificial & Dados:** IA Generativa, Agentes Autónomos (OpenCode/Ollama/Qwen/Gemini), RAG, Model Context Protocol (MCP), LlamaIndex, ChromaDB, Neo4j (Grafos), Power BI, Machine Learning.  
+**Engenharia de Software & Infraestrutura:** Cursor IDE, Vercel, GitHub Actions, Docker, Azure, Progressive Web Apps (PWA), REST APIs.  
+**Governança & Qualidade:** ISO 9001, SASSMAQ, OEA, ANVISA, Lean Six Sigma (Green Belt), Gestão de Processos, CAPA, Auditorias de Qualidade, Scrum, Git.
 
 ---
 
