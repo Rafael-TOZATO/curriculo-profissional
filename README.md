@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="banner-perfil.png" alt="Rafael Ornelas Tozato — AI Engineer, Governança 4.0 e Qualidade" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-AI%20Engineer-success?style=for-the-badge&logo=git" alt="Status">
-  <img src="https://img.shields.io/badge/Qualidade-ISO%209001-blue?style=for-the-badge&logo=checkmarx&logoColor=white" alt="ISO 9001">
-  <img src="https://img.shields.io/badge/Governança-Indústria%204.0-orange?style=for-the-badge&logo=databricks&logoColor=white" alt="Indústria 4.0">
-  <img src="https://img.shields.io/badge/Python-%20AI-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python & IA">
-  <img src="https://img.shields.io/badge/Lean%20Six%20Sigma-Green%20Belt-purple?style=for-the-badge&logo=ercot&logoColor=white" alt="Lean Six Sigma">
+  <img src="https://img.shields.io/badge/STATUS-EM_GRADUAÇÃO-brightgreen?style=flat-square" alt="Status">
+  <img src="https://img.shields.io/badge/QUALIDADE-ISO_9001-blue?style=flat-square" alt="ISO 9001">
+  <img src="https://img.shields.io/badge/GOVERNANÇA-INDÚSTRIA_4.0-orange?style=flat-square" alt="Indústria 4.0">
+  <img src="https://img.shields.io/badge/LEAN_SIX_SIGMA-GREEN_BELT-pink?style=flat-square" alt="Green Belt">
+  <img src="https://img.shields.io/badge/PYTHON-3.11+-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/POWER_BI-ANALYTICS-F2C94C?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/AI-AGENTS_%26_MCP-8A2BE2?style=flat-square" alt="AI Agents">
+  <img src="https://img.shields.io/badge/NEO4J-GRAPH_DB-008CC1?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j">
+  <img src="https://img.shields.io/badge/VERCEL-PWA-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
 </p>
 
 # Rafael Ornelas Tozato
