@@ -12,22 +12,23 @@
   <img src="https://img.shields.io/badge/AI-AGENTS_%26_MCP-8A2BE2?style=flat-square" alt="AI Agents">
   <img src="https://img.shields.io/badge/NEO4J-GRAPH_DB-008CC1?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j">
   <img src="https://img.shields.io/badge/VERCEL-PWA-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/CI%2FCD-Active-success?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD">
+  <img src="https://img.shields.io/badge/CodeQL-Protected-blue?style=flat-square&logo=github&logoColor=white" alt="CodeQL">
+  <img src="https://img.shields.io/badge/Auto--Merge-Streamlined-informational?style=flat-square&logo=git&logoColor=white" alt="Auto-Merge">
+  <img src="https://img.shields.io/badge/Governan%C3%A7a-4.0-critical?style=flat-square&logo=appveyor&logoColor=white" alt="Governança 4.0">
+  <img src="https://img.shields.io/badge/Security-Secured%20%26%20Verified-success?style=flat-square&logo=security&logoColor=white" alt="Security">
 </p>
 
 # Rafael Ornelas Tozato
 
 > **AI Engineer | Especialista em Governança 4.0 e Qualidade | Engenheiro Químico**
 
----
-
 ## 📌 Perfil e Objetivo Profissional
 
 Especialista em Garantia da Qualidade, Governança Industrial e Indústria 4.0. Experiência sólida em processos químicos, ISO 9001, melhoria contínua e Lean Six Sigma, combinada com transição digital para Data Analytics, engenharia de software Full-Stack e Inteligência Artificial Aplicada (automação local de agentes e LLMs offline).
 
-* **Cargo Alvo:** AI Engineer / Especialista em Governança 4.0 e Qualidade / Analista de Inteligência de Negócio
-* **Idiomas:** Inglês e Espanhol (Intermediário)
-
----
+- **Cargo Alvo:** AI Engineer / Especialista em Governança 4.0 e Qualidade / Analista de Inteligência de Negócio
+- **Idiomas:** Inglês e Espanhol (Intermediário)
 
 ## 🛠️ Principais Competências
 
@@ -36,76 +37,74 @@ Especialista em Garantia da Qualidade, Governança Industrial e Indústria 4.0. 
 **Engenharia de Software & Infraestrutura:** Cursor IDE, Vercel, GitHub Actions, Docker, Azure, Progressive Web Apps (PWA), REST APIs.  
 **Governança & Qualidade:** ISO 9001, SASSMAQ, OEA, ANVISA, Lean Six Sigma (Green Belt), Gestão de Processos, CAPA, Auditorias de Qualidade, Scrum, Git.
 
----
-
 ## 💼 Experiência Profissional
 
 ### **Center Tintas Arco Íris Ltda - Decor & Art**
 **Analista de Garantia da Qualidade | Gestão de Processos e Conformidade** *(Novembro de 2024 – Fevereiro de 2025)*  
-* Manutenção do Sistema de Gestão conforme ISO 9001.
-* Padronização de processos produtivos e controle documental.
-* Tratativa de não conformidades e implementação de CAPA.
-* Suporte a auditorias e monitoramento de indicadores de qualidade.
+- Manutenção do Sistema de Gestão conforme ISO 9001.
+- Padronização de processos produtivos e controle documental.
+- Tratativa de não conformidades e implementação de CAPA.
+- Suporte a auditorias e monitoramento de indicadores de qualidade.
 
 ### **IQL - PAINTS & COATINGS SOLUTIONS**
 **Técnico de Garantia da Qualidade e Processos** *(Abril de 2023 – Abril de 2024)*  
-* Controle e análise de não conformidades.
-* Padronização operacional e revisão de procedimentos.
-* Apoio na manutenção de certificações ISO e rastreabilidade técnica.
+- Controle e análise de não conformidades.
+- Padronização operacional e revisão de procedimentos.
+- Apoio na manutenção de certificações ISO e rastreabilidade técnica.
 
 ### **Tintas Altezza**
 **Técnico Químico de Laboratório | Adequação de Processos e Conformidade** *(Julho de 2022 – Janeiro de 2023)*  
-* Reestruturação do laboratório com adequação a normas e padronização de processos.
+- Reestruturação do laboratório com adequação a normas e padronização de processos.
 
 ### **CGE Sociedade Fabricadora de Peças Plásticas Ltda**
 *Controle de Qualidade | Processos Industriais* *(Janeiro de 2016 – Fevereiro de 2017)*  
-* Monitoramento de qualidade ao longo da cadeia produtiva e inspeção de processos.
+- Monitoramento de qualidade ao longo da cadeia produtiva e inspeção de processos.
 
 ### **IQL Chemical Solutions**
 **Químico de Desenvolvimento e Controle de Qualidade** *(Outubro de 2008 – Maio de 2015)*  
-* Desenvolvimento de produtos (tintas e aditivos), interface técnica com SENAI e IPT.
-
----
+- Desenvolvimento de produtos (tintas e aditivos), interface técnica com SENAI e IPT.
 
 ## 🎓 Formação Acadêmica
 
-* **Centro Universitário UniFatecie**  
+- **Centro Universitário UniFatecie**  
   Bacharelado em Engenharia Química *(Maio 2024 - Dezembro 2029)*
-
----
 
 ## 🏆 Consolidação de Certificações Oficiais e Formações
 
-* **Microsoft Learn:** [Transcript Dinâmico (Dynamics 365, ERP, Supply Chain & Cloud)](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209/transcript/dzo2wizrzkx2853)
-* **Microsoft:** Foundry Agentic Engineer
-* **IBM / DIO:** Bootcamp IBM Bob: IA de Nível Empresarial
-* **Confluent Cloud:** Desafio Final com Pipeline Real-Time End-to-End
-* **Universia / DIO:** Fundamentos de IA Generativa 2026
-* **Santander Open Academy:** RAG com ChromaDB, LlamaIndex e Python
-* **DIO:** MCP (Model Context Protocol): Dando Superpoderes ao Seu Agente de IA
-* **Escola EDTI:** Green Belt / White Belt em Lean Six Sigma
-* **DIO:** Pipeline Real-Time End-to-End com Confluent Cloud
-* **Santander / DIO:** Aceleração Santander - Primeiros Passos com Python
-* **DIO:** Formação Power BI, MySQL, Microsoft Azure e Dashboards Corporativos
-* **Católica Lisbon School of Business and Economics:** A Sustentabilidade nas Empresas - Do Diagnóstico ao Reporting
-* **Santander Open Academy:** Cursor com Python: Desenvolvimento Inteligente com IA
-
----
+- **Microsoft Learn:** [Transcript Dinâmico (Dynamics 365, ERP, Supply Chain & Cloud)](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209/transcript/dzo2wizrzkx2853)
+- **Microsoft:** Foundry Agentic Engineer
+- **IBM / DIO:** Bootcamp IBM Bob: IA de Nível Empresarial
+- **Confluent Cloud:** Desafio Final com Pipeline Real-Time End-to-End
+- **Universia / DIO:** Fundamentos de IA Generativa 2026
+- **Santander Open Academy:** RAG com ChromaDB, LlamaIndex e Python
+- **DIO:** MCP (Model Context Protocol): Dando Superpoderes ao Seu Agente de IA
+- **Escola EDTI:** Green Belt / White Belt em Lean Six Sigma
+- **DIO:** Pipeline Real-Time End-to-End com Confluent Cloud
+- **Santander / DIO:** Aceleração Santander - Primeiros Passos com Python
+- **DIO:** Formação Power BI, MySQL, Microsoft Azure e Dashboards Corporativos
+- **Católica Lisbon School of Business and Economics:** A Sustentabilidade nas Empresas - Do Diagnóstico ao Reporting
+- **Santander Open Academy:** Cursor com Python: Desenvolvimento Inteligente com IA
 
 ## ✍️ Publicações & Artigos (Medium)
 
-* **Desliguei a internet. Meu agente de IA continuou programando.**
-* **SoundGraph: recomendação de músicas explicável com grafos no Neo4j**
-* **Arquitetura de agentes de IA e Protocolos de Contexto (MCP)**
-* **Da Qualidade Industrial à Inteligência Artificial Aplicada**
-* **Da Bancada à Engenharia 4.0: Estratégias de arquitetura, PWA, organização de código e governança de ativos digitais**
-* **Da Engenharia à Inteligência Artificial: Concluindo a Trilha IBM na DIO e Consolidando a Nova Era Tecnológica**
-* **FinanCIA: Como criei um App de Organização de Finanças Pessoais usando Vibe Coding e IA**
-* **Aurora BI: Construindo um Painel Executivo de Inteligência Financeira**
-* **Modelagem Dimensional com Power BI: Do Zero ao Star Schema (Projeto Financial Sample)**
-* **Da Engenharia à Governança 4.0: Consolidação quantitativa das certificações oficiais e carga horária técnica**
+- **Desliguei a internet. Meu agente de IA continuou programando.**
+- **SoundGraph: recomendação de músicas explicável com grafos no Neo4j**
+- **Arquitetura de agentes de IA e Protocolos de Contexto (MCP)**
+- **Da Qualidade Industrial à Inteligência Artificial Aplicada**
+- **Da Bancada à Engenharia 4.0: Estratégias de arquitetura, PWA, organização de código e governança de ativos digitais**
+- **Da Engenharia à Inteligência Artificial: Concluindo a Trilha IBM na DIO e Consolidando a Nova Era Tecnológica**
+- **FinanCIA: Como criei um App de Organização de Finanças Pessoais usando Vibe Coding e IA**
+- **Aurora BI: Construindo um Painel Executivo de Inteligência Financeira**
+- **Modelagem Dimensional com Power BI: Do Zero ao Star Schema (Projeto Financial Sample)**
+- **Da Engenharia à Governança 4.0: Consolidação quantitativa das certificações oficiais e carga horária técnica**  
 
----  
+## 🛡️ Governança 4.0 — Segurança e Qualidade
+
+Este perfil consolida padrões automatizados de Governança 4.0 para assegurar integridade dos artefatos, rastreabilidade das entregas, gestão de dependências e conformidade técnica avançada.
+
+* **Automação de Qualidade e Segurança:** Análises automatizadas e portas de verificação (*status checks*) integradas aos fluxos de entrega.
+* **Fluxo Contínuo:** Padronização rigorosa de versionamento e gerenciamento de ativos digitais.
+* **Integridade de Repositórios:** Proteção de branch e padrões de engenharia alinhados às exigências da Indústria 4.0.
 
 ## 💻 Projetos e Portfólios
 - **App Ecosystem:** [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
@@ -123,3 +122,8 @@ Especialista em Garantia da Qualidade, Governança Industrial e Indústria 4.0. 
 ## 📬 Contatos
 - 📌 **E-mail:** ornelas.tozato@gmail.com
 - 💼 **LinkedIn:** [rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
+- 🐙 **GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
+- ✍️ **Medium:** [@ornelas.tozato](https://medium.com/@ornelas.tozato)
+- 🌐 **Dev Hub:** [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
+- 🌐 **H-Folio:** [h-folio-l0.vercel.app](https://h-folio-l0.vercel.app)
+- 🪟 **Microsoft Learn:** [rafaelornelastozato-2209](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209)
