@@ -111,6 +111,9 @@ Especialista em Garantia da Qualidade, Governança Industrial e Indústria 4.0. 
 - **App Ecosystem:** [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
 - **H-Folio:** [h-folio-l0.vercel.app](https://h-folio-l0.vercel.app)
 
+## 🪟 Microsoft Learn 
+- **Microsoft Learn:** [rafaelornelastozato-2209](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209)
+
 ## 🐙 Código e Repositórios
 - **GitHub:** [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
 
@@ -120,8 +123,3 @@ Especialista em Garantia da Qualidade, Governança Industrial e Indústria 4.0. 
 ## 📬 Contatos
 - 📌 **E-mail:** ornelas.tozato@gmail.com
 - 💼 **LinkedIn:** [rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
-- 🐙 **GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
-- ✍️ **Medium:** [@ornelas.tozato](https://medium.com/@ornelas.tozato)
-- 💻 **Dev Hub:** [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
-- 🌐 **H-Folio:** [h-folio-l0.vercel.app](https://h-folio-l0.vercel.app)
-- 🪟 **Microsoft Learn:** [rafaelornelastozato-2209](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209)
