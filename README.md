@@ -123,4 +123,4 @@ Este perfil consolida padrões automatizados de Governança 4.0 para assegurar i
 
 💼 **REDE E CONTATO**
 * LinkedIn: [linkedin.com/in/rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
-* E-mail: [ornelas.tozato@gmail.com
+* E-mail: ornelas.tozato@gmail.com
