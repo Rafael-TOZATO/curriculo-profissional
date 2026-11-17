@@ -116,7 +116,7 @@ Este perfil consolida padrões automatizados de Governança 4.0 para assegurar i
 * **Fluxo Contínuo:** Padronização rigorosa de versionamento e gerenciamento de ativos digitais.
 * **Integridade de Repositórios:** Proteção de branch e padrões de engenharia alinhados às exigências da Indústria 4.0.
 
-## 📬 CONTATOS E PERFIS
+## 📬 CONTATOS E ECOSSISTEMAS ##
 
 💻 **PROJETOS E PORTFÓLIOS**
 * Ecossistema de Aplicativo: [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
