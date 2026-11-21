@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="banner-perfil.png" alt="Banner Rafael Ornelas Tozato" width="100%">
+  <img src="banner-animado.gif" alt="Rafael Ornelas Tozato - Banner Institucional Animado" width="100%">
 </p>
+
 
 <p align="center">
   <!-- STATUS & GOVERNANÇA PRINCIPAL -->
